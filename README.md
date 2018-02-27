@@ -1,8 +1,8 @@
 # E1246 Assignment1
 
-generate_sentence.sh script requires two more files generate.py and my_prob.pkl
-To execute the script:
-(i) chmod +x generate_sentence.sh
+generate_sentence.sh script requires two more files generate.py and my_prob.pkl<br />
+To execute the script: <br />
+(i) chmod +x generate_sentence.sh <br />
 (ii) ./generate_sentence.sh
 
 ## Description of the above scripts
